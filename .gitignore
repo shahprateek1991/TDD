@@ -2,3 +2,4 @@
 *.iws
 /.idea/
 /.gradle/
+/build/
